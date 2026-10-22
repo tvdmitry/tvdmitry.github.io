@@ -8,4 +8,4 @@ All application source code and the reusable deployment workflow are maintained 
 
 To publish the latest `main` from the source repository, open **Actions → Deploy application to GitHub Pages → Run workflow** in this repository.
 
-The Pages build requires each visitor to enter their own Favorit Parts customer API key. Keys stay in the current browser tab's memory and are sent directly to the Favorit Parts API; no customer key is stored in either repository or deployment.
+The application automatically uses the public key from the examples on page 3 of the Favorit Parts `wsprice.pdf` documentation. Visitors can search immediately by entering an article number; there is no API key form. Both search steps make real requests to Favorit Parts.
