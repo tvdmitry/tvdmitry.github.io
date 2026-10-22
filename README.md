@@ -1,6 +1,8 @@
 # Auto parts search — GitHub Pages
 
-Published application: https://tvdmitry.github.io/
+Published application: https://tvdmitry.github.io/search-service/
+
+The application is deployed only under `/search-service/`, not at the domain root.
 
 All application source code and the reusable deployment workflow are maintained in [tvdmitry/Auto-parts-cross-reference-search-service](https://github.com/tvdmitry/Auto-parts-cross-reference-search-service).
 
